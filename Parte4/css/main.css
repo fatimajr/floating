@@ -1,0 +1,27 @@
+.padre{
+	width:600px;
+	border:1px solid black;
+}
+
+.yellow{
+	background-color: yellow;
+	width:25% ;
+	height:100px;
+	float: left;
+}
+.blue{
+	background-color: blue;
+	width:25% ;
+	height:100px;
+	float: left;
+}
+.red{
+	background-color: red;
+	width:25% ;
+	height:100px;
+	float: left;
+}
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
